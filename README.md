@@ -22,12 +22,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0402-remove-k-digits) |
 | [0907-sum-of-subarray-minimums](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 ## Simulation
 |  |
@@ -56,4 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shreenikethjoshi/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## String
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0402-remove-k-digits) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
