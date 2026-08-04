@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shreenikethjoshi/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shreenikethjoshi/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3731-find-missing-elements](https://github.com/Shreenikethjoshi/Leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [3731-find-missing-elements](https://github.com/Shreenikethjoshi/Leetcode/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0678-valid-parenthesis-string) |
+## Sorting
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/Shreenikethjoshi/Leetcode/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
