@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0057-insert-interval) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0735-asteroid-collision](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0735-asteroid-collision) |
