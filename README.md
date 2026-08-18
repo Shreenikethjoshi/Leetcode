@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0435-non-overlapping-intervals](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0542-01-matrix](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0542-01-matrix) |
 | [0735-asteroid-collision](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0735-asteroid-collision) |
 | [0904-fruit-into-baskets](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0070-climbing-stairs) |
 | [0435-non-overlapping-intervals](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0509-fibonacci-number) |
+| [0542-01-matrix](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 ## Stack
@@ -161,9 +163,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0994-rotting-oranges) |
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
