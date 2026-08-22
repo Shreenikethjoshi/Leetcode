@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0402-remove-k-digits](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0735-asteroid-collision) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shreenikethjoshi/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shreenikethjoshi/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -170,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0542-01-matrix](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0994-rotting-oranges) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
