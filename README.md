@@ -202,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
