@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0057-insert-interval) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0198-house-robber](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0198-house-robber) |
 | [0239-sliding-window-maximum](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0435-non-overlapping-intervals](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0542-01-matrix) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0542-01-matrix) |
