@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shreenikethjoshi/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -214,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0176-second-highest-salary](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0178-rank-scores) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
