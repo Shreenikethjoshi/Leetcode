@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0057-insert-interval) |
+| [0063-unique-paths-ii](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0198-house-robber](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0198-house-robber) |
 | [0239-sliding-window-maximum](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0239-sliding-window-maximum) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0542-01-matrix](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/Shreenikethjoshi/Leetcode/tree/master/0994-rotting-oranges) |
 ## Depth-First Search
